@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-     <h1> Company Registration Form</h1>
+     <h1> Company Registration Form1</h1>
   </head>  
 <body>
 <form>	
